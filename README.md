@@ -13,20 +13,20 @@
 🧑🏽‍ I m Team lead and a senior software engineer with over 10 years of experience<br>
 📱 Worked on over 100+ platforms throughout my career such as e-commerce, websites, cms, mobile app, web systems, dashboard and maps.<br>
 🚀 Co-founder of techwebies.com and sociabatt.com.<br>
-📝 Written more than 10 articles  on [Medium profile](https://medium.com/@kareemzok).<br><br>
+📝 Written more than 10 articles on [Medium profile](https://medium.com/@kareemzok).<br><br>
 
 
 * Languages: PHP, Java, JavaScript, CSS3, HTML5
 * Cloud platforms: Salesforce, Firebase, Digital Ocean, Google
-* Frameworks/MVC: JS (Smart Client, jQuery), CSS (Blueprint, Compass, Bootstrap), PHP (Yii)
+* Frameworks/MVC: PHP (Yii2, Laravel), JS (Javascript, jQuery), CSS (Blueprint, Compass, Bootstrap)
 * Databases: MySQL, PostgreSQL, MariaDB, IndexedDB, SQLite, MongoDB
 * Mobile Development: Android, iOS
 * CMS: Drupal, Wordpress, PrestaShop, PyroCMS, Opencart
 * Integration: Social (Facebook, Twitter, Google+), Geolocation (Google Maps)
-* Systems & Software: IDE (NetBeans, Eclipse, Sublime Text, Dreamweaver), Issue Tracking & PM (Bugzila, JIRA, Trello, Gitlab), Versioning (SVN, Unfuddle, Gitlab), UI (Adobe Photoshop, Adobe Flash), Communication platform (Slack)
+* Systems & Software: IDE (NetBeans, Eclipse, Sublime Text, Dreamweaver), Issue Tracking & PM (Bugzila, JIRA, Trello, Gitlab), Versioning (SVN, Unfuddle, Gitlab, Github), UI (Adobe Photoshop), Communication platform (Slack)
 * Other: Search engine optimization, web performance, and security
 * Data Science: Python, R language, SQL queries
-* Analytics & maps tools: Data Studio, Awesome-table, Carto, ArcGis/QGIS
+* Analytics & maps tools: Data Studio, Awesome-table, Power Bi, Carto, ArcGis/QGIS
 
 ---
 
