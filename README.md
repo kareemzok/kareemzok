@@ -1,4 +1,47 @@
-### Hi there 👋
+### Hello 👋, I am Kareem zok
+
+<img align="right" alt="GIF" src="https://www.kareemzok.com/images/header.jpg" width="500" height="320" />
+
+<br>
+<p align="center">
+	<a href="https://twitter.com/kareemzok"><img src="https://img.shields.io/twitter/follow/kareemzok?label=@kareemzok&style=social" alt="Twitter"></a>  
+	<a href="https://www.linkedin.com/in/kareemzok"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+  <a href="https://github.com/kareemzok"><img src="https://img.shields.io/github/followers/kareemzok.svg?label=GitHub&style=social" alt="GitHub"></a>  
+	
+</p>
+
+🧑🏽‍ I m Team lead and a senior software engineer with over 10 years of experience<br>
+📱 Worked on over 100+ platforms throughout my career such as e-commerce, websites, cms, mobile app, web systems, dashboard and maps.<br>
+🚀 Co-founder of techwebies.com and sociabatt.com.<br>
+📝 Written more than 10 articles  on [Medium profile](https://medium.com/@kareemzok).<br><br>
+
+Salesforce Trailhead  profile: https://trailblazer.me/id/kareemzok 
+
+
+* Languages: PHP, Java, JavaScript, CSS3, HTML5
+* Cloud platforms: Salesforce, Firebase, Digital Ocean, Google
+* Frameworks/MVC: JS (Smart Client, jQuery), CSS (Blueprint, Compass, Bootstrap), PHP (Yii)
+* Databases: MySQL, PostgreSQL, MariaDB, IndexedDB, SQLite, MongoDB
+* Mobile Development: Android, iOS
+* CMS: Drupal, Wordpress, PrestaShop, PyroCMS, Opencart
+* Integration: Social (Facebook, Twitter, Google+), Geolocation (Google Maps)
+* Systems & Software: IDE (NetBeans, Eclipse, Sublime Text, Dreamweaver), Issue Tracking & PM (Bugzila, JIRA, Trello, Gitlab), Versioning (SVN, Unfuddle, Gitlab), UI (Adobe Photoshop, Adobe Flash), Communication platform (Slack)
+* Other: Search engine optimization, web performance, and security
+* Data Science: Python, R language, SQL queries
+* Analytics & maps tools: Data Studio, Awesome-table, Carto, ArcGis/QGIS
+
+---
+
+👉 Follow me on Twitter or other Internet places I am available below:
+
+<br>
+<p align="center">
+  <a href="https://kareemzok.com"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/website.png" height="50" width="130" alt="Website"></a>
+
+  <a href="https://medium.com/@kareemzok"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/medium.png" height="50" width="130" alt="Medium"></a>
+  
+</p>
+
 
 <!--
 **kareemzok/kareemzok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
