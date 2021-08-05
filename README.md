@@ -15,8 +15,6 @@
 🚀 Co-founder of techwebies.com and sociabatt.com.<br>
 📝 Written more than 10 articles  on [Medium profile](https://medium.com/@kareemzok).<br><br>
 
-Salesforce Trailhead  profile: https://trailblazer.me/id/kareemzok 
-
 
 * Languages: PHP, Java, JavaScript, CSS3, HTML5
 * Cloud platforms: Salesforce, Firebase, Digital Ocean, Google
@@ -34,12 +32,9 @@ Salesforce Trailhead  profile: https://trailblazer.me/id/kareemzok
 
 👉 Follow me on Twitter or other Internet places I am available below:
 
-<br>
 <p align="center">
   <a href="https://kareemzok.com"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/website.png" height="50" width="130" alt="Website"></a>
-
   <a href="https://medium.com/@kareemzok"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/medium.png" height="50" width="130" alt="Medium"></a>
-  
 </p>
 
 
