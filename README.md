@@ -35,6 +35,10 @@
 <p align="center">
   <a href="https://kareemzok.com"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/website.png" height="50" width="130" alt="Website"></a>
   <a href="https://medium.com/@kareemzok"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/medium.png" height="50" width="130" alt="Medium"></a>
+  <a href="https://about.me/kareemzok/"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/aboutme.png" height="50" width="130" alt="Medium"></a>
+  <a href="https://bio.link/kareemzok"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/biolink.png" height="50" width="130" alt="Medium"></a>
+  <a href="https://www.linkedin.com/in/kareemzok/"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/linkedin.png" height="50" width="130" alt="Medium"></a>
+  <a href="https://twitter.com/kareemzok"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/twitter.png" height="50" width="130" alt="Medium"></a>
 </p>
 
 
