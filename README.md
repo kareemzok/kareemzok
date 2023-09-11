@@ -13,7 +13,7 @@
 🧑🏽‍ I m Team lead and a senior software engineer with over 10 years of experience<br>
 📱 Worked on over 100+ platforms throughout my career such as e-commerce, websites, cms, mobile app, web systems, dashboard and maps.<br>
 🚀 Co-founder of techwebies.com and sociabatt.com.<br>
-📝 Written more than 10 articles on [Medium profile](https://medium.com/@kareemzok).<br><br>
+📝 Written more than 10 articles on [Medium profile](https://medium.com/@kareemzok) and [Dev To](https://dev.to/kareemzok)<br><br>
 
 
 * Languages: PHP, Java, JavaScript, CSS3, HTML5
