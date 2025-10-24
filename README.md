@@ -10,9 +10,9 @@
 	
 </p>
 
-🧑🏽‍ I m Team lead and a senior software engineer with over 12 years of experience<br>
+🧑🏽‍ I m Head Of Development, Team lead and a senior software engineer with over 12 years of experience<br>
 📱 Worked on over 100+ platforms throughout my career such as e-commerce, websites, cms, mobile app, web systems, dashboard and maps.<br>
-🚀 Co-founder of techwebies.com and sociabatt.com.<br>
+🚀 Co-founder of techwebies.com and zeesweb.com.<br>
 📝 Written more than 10 articles on [Medium profile](https://medium.com/@kareemzok) and [Dev To](https://dev.to/kareemzok)<br><br>
 
 
@@ -30,7 +30,7 @@
 
 ---
 
-👉 Follow me on Twitter or other Internet places I am available below:
+👉 Follow me on X or other Internet places I am available below:
 
 <p align="center">
   <a href="https://kareemzok.com"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/website.png" height="50" width="130" alt="Website"></a>
@@ -38,7 +38,7 @@
   <a href="https://about.me/kareemzok/"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/aboutme.png" height="50" width="130" alt="Medium"></a>
   <a href="https://bio.link/kareemzok"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/biolink.png" height="50" width="130" alt="Medium"></a>
   <a href="https://www.linkedin.com/in/kareemzok/"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/linkedin.png" height="50" width="130" alt="Medium"></a>
-  <a href="https://twitter.com/kareemzok"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/twitter.png" height="50" width="130" alt="Medium"></a>
+  <a href="https://x.com/kareemzok"><img src="https://raw.githubusercontent.com/kareemzok/kareemzok/master/icons/twitter.png" height="50" width="130" alt="Medium"></a>
 </p>
 
 
