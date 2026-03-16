@@ -1,15 +1,7 @@
 ### Hello 👋, I am Kareem zok
 
 <img align="right" alt="GIF" src="https://www.kareemzok.com/images/header.jpg" width="500" height="320" />
-
 <br>
-<p align="center">
-	<a href="https://twitter.com/kareemzok"><img src="https://img.shields.io/twitter/follow/kareemzok?label=@kareemzok&style=social" alt="Twitter"></a>  
-	<a href="https://www.linkedin.com/in/kareemzok"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
-  <a href="https://github.com/kareemzok"><img src="https://img.shields.io/github/followers/kareemzok.svg?label=GitHub&style=social" alt="GitHub"></a>  
-	
-</p>
-
 🧑🏽‍ I m Head Of Development, Team lead and a senior software engineer with 12+ years of experience building scalable platforms, intelligent systems, and high-performance applications.
 🧠 My work focuses on AI-powered products, backend architecture, automation systems, and cloud platforms.<br>
 📱 Worked on over 100+ platforms throughout my career such as e-commerce, websites, cms, mobile app, web systems, dashboard and maps.<br>
