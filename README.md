@@ -10,14 +10,15 @@
 	
 </p>
 
-🧑🏽‍ I m Head Of Development, Team lead and a senior software engineer with over 12 years of experience<br>
+🧑🏽‍ I m Head Of Development, Team lead and a senior software engineer with 12+ years of experience building scalable platforms, intelligent systems, and high-performance applications.
+🧠 My work focuses on AI-powered products, backend architecture, automation systems, and cloud platforms.<br>
 📱 Worked on over 100+ platforms throughout my career such as e-commerce, websites, cms, mobile app, web systems, dashboard and maps.<br>
 🚀 Co-founder of techwebies.com and zeesweb.com.<br>
-📝 Written more than 10 articles on [Medium profile](https://medium.com/@kareemzok) and [Dev To](https://dev.to/kareemzok)<br><br>
-
+📝 Written more than 15 articles on [Medium profile](https://medium.com/@kareemzok) and [Dev To](https://dev.to/kareemzok)<br><br>
 
 * Languages: PHP, Java, JavaScript, CSS3, HTML5
 * Cloud platforms: Salesforce, Firebase, Digital Ocean, Google
+* Artificial Intelligence & Automation: AI application development, LLM integration (OpenAI, Gemini), prompt engineering, AI-powered automation, chatbot development, AI APIs integration, data processing & AI-assisted workflows
 * Frameworks/MVC: PHP (Yii2, Laravel), JS (Javascript, jQuery), CSS (Blueprint, Compass, Bootstrap)
 * Databases: MySQL, PostgreSQL, MariaDB, IndexedDB, SQLite, MongoDB
 * Mobile Development: Android, iOS
